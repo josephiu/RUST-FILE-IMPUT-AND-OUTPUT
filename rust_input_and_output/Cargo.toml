@@ -1,0 +1,6 @@
+[package]
+name = "rust_input_and_output"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

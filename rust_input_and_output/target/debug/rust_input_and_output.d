@@ -1,0 +1,1 @@
+D:\byu_idaho\Software\ Development\CSE310_Applied_Programming\RUST-FILE-IMPUT-AND-OUTPUT\rust_input_and_output\target\debug\rust_input_and_output.exe: D:\byu_idaho\Software\ Development\CSE310_Applied_Programming\RUST-FILE-IMPUT-AND-OUTPUT\rust_input_and_output\src\main.rs
